@@ -4,7 +4,7 @@ Simply and safely send `n` transactions from a single account without managing i
 ## Testing
 **Installation**
 ```bash
-git clone https://github.com/c4syner/evm-nonce-manager.git && cd emv-nonce-manager
+git clone https://github.com/c4syner/evm-nonce-manager.git && cd evm-nonce-manager
 python -m pip install -r -requirements.txt
 ```
 **Setup**
